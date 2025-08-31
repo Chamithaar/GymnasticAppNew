@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Gymnastics App</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="element_label">Element: %1$d</string>
+    <string name="perform_button">Perform</string>
+    <string name="deduction_button">Deduction</string>
+    <string name="reset_button">Reset</string>
+    <string name="routine_complete">Routine Complete!</string>
+    <string name="deduction_taken">Deduction Taken</string>
+    <string name="app_name"><![CDATA[<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<resources>\n    <string name=\"app_title\">Gymnastics App</string>\n    <string name=\"score_label\">Score: %1$d</string>\n    <string name=\"element_label\">Element: %1$d</string>\n    <string name=\"perform_button\">Perform</string>\n    <string name=\"deduction_button\">Deduction</string>\n    <string name=\"reset_button\">Reset</string>\n    <string name=\"routine_complete\">Routine Complete!</string>\n    <string name=\"deduction_taken\">Deduction Taken</string>\n</resources>]]></string>
+</resources>
